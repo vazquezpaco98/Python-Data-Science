@@ -1,2 +1,2 @@
-# Python Data Science
- A repository to practise the exercises of Udemy Python Data Science Bootcamp
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
